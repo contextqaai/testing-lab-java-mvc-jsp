@@ -1,0 +1,47 @@
+{
+  "title": "Java \u00b7 Spring MVC / JSP",
+  "upstream": "https://github.com/spring-petclinic/spring-framework-petclinic",
+  "upstream_commit": "cf392920cdbe9cd07689f1f4b603271940bac957",
+  "tags": [
+    "Java",
+    "Spring MVC",
+    "JSP",
+    "server-rendered",
+    "older architecture"
+  ],
+  "environment": "container",
+  "hosted_url": null,
+  "contextqa_run_verified": false,
+  "scenarios": [
+    {
+      "id": "java-mvc-jsp-01",
+      "title": "Owner search",
+      "assertion": "A seeded owner is found by the specified name.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "java-mvc-jsp-02",
+      "title": "Required fields",
+      "assertion": "The selected invalid owner form is rejected.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "java-mvc-jsp-03",
+      "title": "Pet creation",
+      "assertion": "The new pet is associated with the selected owner.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "java-mvc-jsp-04",
+      "title": "Visit",
+      "assertion": "The saved visit belongs to the intended pet.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "java-mvc-jsp-05",
+      "title": "Migration parity",
+      "assertion": "Equivalent owner/pet/visit outcomes hold in both configured PetClinic variants.",
+      "status": "exercise-not-executed"
+    }
+  ]
+}
