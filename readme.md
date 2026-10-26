@@ -1,3 +1,13 @@
+<a href="https://contextqaai.github.io/testing-lab/"><img src="lab/assets/contextqa-logo.svg" alt="ContextQA" width="200"></a>
+
+# ContextQA Testing Lab — Java · Spring MVC / JSP
+
+[Start the exercises](lab/README.md) · [Scenario checklist](lab/scenarios.json) · [Stack/platform catalog](https://github.com/contextqaai/testing-lab)
+
+Source available; hosted sessions and ContextQA execution results are not verified. Original project: [spring-petclinic/spring-framework-petclinic](https://github.com/spring-petclinic/spring-framework-petclinic). Upstream attribution/license remain in this repository. No upstream endorsement is implied.
+
+## Upstream project documentation
+
 # Spring PetClinic Sample Application
 
 [![Java CI with Maven](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml)
@@ -233,3 +243,9 @@ For pull requests, editor preferences are available in the [editor config](.edit
 
 
 
+
+## ContextQA learning resources
+
+[Public learning hub](https://contextqaai.github.io/testing-lab/) · [Stack/platform setup](https://github.com/contextqaai/testing-lab/blob/main/PLATFORMS.md) · [Report or reproduce an issue](https://github.com/contextqaai/testing-lab-java-mvc-jsp/issues)
+
+This is an educational learning resource. Original source, licenses and credits remain intact. Public report links appear only after actual execution; recorded evidence is labeled separately from a fresh run.
